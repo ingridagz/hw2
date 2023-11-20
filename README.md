@@ -1,3 +1,2 @@
 # hw2
 
-# Ingrida
